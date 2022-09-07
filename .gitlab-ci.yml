@@ -1,0 +1,5 @@
+include:
+  - project: 'gray/devops'
+    ref: main
+    file: '/ekyc-project/ekyc/cms-partner/.gitlab-ci.yml'
+
